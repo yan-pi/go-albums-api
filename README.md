@@ -1,7 +1,8 @@
 # go-albums-api
 
 ## Introduction
-go-albums-api is a simple API written in Golang using the Gin web framework. This API allows users to manage a collection of albums, where each album has an ID, title, artist, list of musics, and price.
+go-albums-api is a simple API written in Golang using the Gin web framework. This API comes from the official Golang tutorial; it was my first contact with the language.
+This API allows users to manage a collection of albums, where each album has an ID, title, artist, list of musics, and price.
 
 ### GitHub Repository
 [https://github.com/yan-pi/go-albums-api/](https://github.com/yan-pi/go-albums-api/)
